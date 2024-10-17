@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "chart.js": "^4.4.5",
     "chat.js": "^1.0.2",
     "vue": "^3.5.10"
   },
